@@ -26,9 +26,9 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-- Task List Full Preview
+- Tasks List Full Preview
 
-[TASK LIST](https://drive.google.com/file/d/1CD6I13hJ2Kw2P0BbA_IZxqp6L0FveRZ6/view?usp=sharing) 
+[TASKS LIST](https://drive.google.com/file/d/1CD6I13hJ2Kw2P0BbA_IZxqp6L0FveRZ6/view?usp=sharing) 
 
 ## Notes
 
